@@ -1,0 +1,9 @@
+Date,Type,Amount,Loan/CC Name,Paid On Time,Credit Limit
+2025-01-05,EMI,15000,HDFC Home Loan,True,
+2025-01-10,Credit,12000,SBI Credit Card,True,50000
+2025-01-15,EMI,5000,ICICI Car Loan,True,
+2025-01-18,Credit,18000,Axis Credit Card,False,60000
+2025-02-05,EMI,16000,HDFC Home Loan,True,
+2025-02-12,Credit,14000,SBI Credit Card,True,50000
+2025-02-20,EMI,5200,ICICI Car Loan,False,
+2025-02-25,Credit
